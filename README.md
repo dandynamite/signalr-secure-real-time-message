@@ -1,1 +1,1 @@
-# signalr-secure-real-time-message
+Please refer to this article - [Send real-time, secure message to a specific user browser using Azure SignalR](https://ngothiensinh.medium.com/send-real-time-secure-message-to-a-specific-user-browser-using-azure-signalr-b605d3db996c)
